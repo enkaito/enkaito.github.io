@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://enkaito.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/lie_algebra/</loc>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/lie_algebra/schur/</loc>
+        <lastmod>2024-12-08T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/lie_algebra/weyl/</loc>
+        <lastmod>2024-12-08T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://enkaito.github.io/tags/lie-algebra/</loc>
+    </url>
+</urlset>
